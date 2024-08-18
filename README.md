@@ -4,9 +4,7 @@ Code and Dataset for our ACL 2024 Paper "[PAGED: A Benchmark for Procedural Grap
 
 ![ProceduralGraph](/imgs/ProceduralGraph.png "ProceduralGraph")
 
-<p align="center">
-  <div style="text-align: center;">Procedural Graph</div>
-</p>
+<p align="center">Procedural Graph</p>
 
 ![Document](/imgs/Document.png "Document")
 
