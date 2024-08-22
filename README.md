@@ -43,22 +43,11 @@ python evaluation/baselines/Llama2/fine_tune/70b_training_ds_trainer_v2.py
 
 Cite PAGED by the following BibTeX entry:
 ```latex
-@inproceedings{du-etal-2024-paged,
-    title = "{PAGED}: A Benchmark for Procedural Graphs Extraction from Documents",
-    author = "Du, Weihong  and
-      Liao, Wenrui  and
-      Liang, Hongru  and
-      Lei, Wenqiang",
-    editor = "Ku, Lun-Wei  and
-      Martins, Andre  and
-      Srikumar, Vivek",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = aug,
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.acl-long.583",
-    pages = "10829--10846",
-    abstract = "Automatic extraction of procedural graphs from documents creates a low-cost way for users to easily understand a complex procedure by skimming visual graphs. Despite the progress in recent studies, it remains unanswered: whether the existing studies have well solved this task (Q1) and whether the emerging large language models (LLMs) can bring new opportunities to this task (Q2). To this end, we propose a new benchmark PAGED, equipped with a large high-quality dataset and standard evaluations. It investigates five state-of-the-art baselines, revealing that they fail to extract optimal procedural graphs well because of their heavy reliance on hand-written rules and limited available data. We further involve three advanced LLMs in PAGED and enhance them with a novel self-refine strategy. The results point out the advantages of LLMs in identifying textual elements and their gaps in building logical structures. We hope PAGED can serve as a major landmark for automatic procedural graph extraction and the investigations in PAGED can offer insights into the research on logic reasoning among non-sequential elements.",
+@inproceedings{du2024paged,
+  title={PAGED: A Benchmark for Procedural Graphs Extraction from Documents},
+  author={Du, Weihong and Liao, Wenrui and Liang, Hongru and Lei, Wenqiang},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={10829--10846},
+  year={2024}
 }
 ```
